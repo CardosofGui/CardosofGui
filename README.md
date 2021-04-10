@@ -11,4 +11,4 @@
 
 **Contact**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/cardosofgui)](www.linkedin.com/in/cardosofgui)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtocardosof.gui@gmail.com)](mailto:cardosof.gui@gmail.com)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-cardoso-ferreria-8280111b1/)](https://www.linkedin.com/in/guilherme-cardoso-ferreria-8280111b1/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtocardosof.gui@gmail.com)](mailto:cardosof.gui@gmail.com)  
