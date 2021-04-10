@@ -1,6 +1,6 @@
 ## Hello, welcome to my profile!
 
-#### My name is Guilherme and I'm passionate about programming! 👨‍💻
+### My name is Guilherme and I'm passionate about programming! 👨‍💻
 
 
 - 🎓Systems Development Technician
