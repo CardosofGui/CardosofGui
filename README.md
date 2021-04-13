@@ -5,7 +5,7 @@
 
 - 🎓Systems Development Technician
 - 💻Experience: Scrum, Git, Figma, Kanban
-- 📚Languages I use most: Kotlin, Java, JavaScript, PHP, CSS
+- 📚Languages I use most: Kotlin, Java, JavaScript, PHP
 - 🎯I am interested in learning: Next.js, React Native
 
 
