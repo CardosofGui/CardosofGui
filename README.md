@@ -3,7 +3,7 @@
 ### My name is Guilherme and I'm passionate about programming! 👨‍💻
 
 I am passionate about modern and scalable native technologies, especially Kotlin and Java, and I am always looking to improve my skills in tools related to Android application development.
-I have 2 years of experience working in a team and I am always willing to collaborate with others to make ideas a reality.
+I have 5 years of experience working in a team and I am always willing to collaborate with others to make ideas a reality.
 
 ## 🚀 Expertise 
 
