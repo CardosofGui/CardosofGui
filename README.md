@@ -1,4 +1,3 @@
 ## Hello, welcome to my profile!
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c3c7fc90-4071-455c-a7ed-a6c20f07c386" />
-
+![meerkats-peep](https://github.com/user-attachments/assets/6c1cb48b-cc2a-46b3-9e3d-efcefb1461c9)
